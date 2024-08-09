@@ -30,6 +30,9 @@ The **College Finder Web Application** is a project developed using PHP, JavaScr
 
 ## Usage
 - **Home Page**: Displays an introductory quote and provides a search form where users can input their academic qualifications to find matching colleges.
+  ![Screenshot (82)](https://github.com/user-attachments/assets/ef1a3871-2dc2-4915-bd9c-860599154120)
+  ![Screenshot 2024-08-09 180606](https://github.com/user-attachments/assets/d883572c-8dc8-414c-9aad-583b27b43fd2)
+
 - **About Us Page**: Information about the purpose and team behind the College Finder Web Application.
 - **Login/Logout**: Allows users to securely log in and out of their accounts.
 
