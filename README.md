@@ -36,9 +36,6 @@ The **College Finder Web Application** is a project developed using PHP, JavaScr
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your enhancements.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
-For any inquiries or further information, please contact [your-email@example.com].
+For any inquiries or further information, please contact [ykhandelwal571@gmail.com].
 
